@@ -1,0 +1,13 @@
+{
+  "name": "Divyam Hospital Digital Ecosystem",
+  "description": "Full-stack hospital management system for Divyam Hospital, Bikaner. Includes IPD/OPD, Lab, Pharmacy, and AI-powered healthcare assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Healthcare Management",
+    "Real-time Dashboards",
+    "AI Chatbot",
+    "Appointment Booking"
+  ]
+}
